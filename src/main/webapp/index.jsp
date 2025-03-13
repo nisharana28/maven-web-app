@@ -1,10 +1,10 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
+<h1><font color='red'> Welcome to MnM World!! <font></h1>
 
-<a href="www.ashokit.in">Click Here To See Ashok IT Training Schedules</a>
+<a href="www.w3schools.com">Click Here To See IT related Tutorials</a>
   
-  <h2> Call Us : +91-9985396677  </h2>
+  <marquee><h2> Chak de Fatte </h2></marquee>
   
  
 
